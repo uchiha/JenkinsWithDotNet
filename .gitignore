@@ -1,0 +1,11 @@
+/JenkinsWithDotNet/bin
+/JenkinsWithDotNet/obj
+/JenkinsWithDotNet/Properties
+
+/TestJenkinsWithDotNet/bin
+/TestJenkinsWithDotNet/obj
+/TestJenkinsWithDotNet/Properties
+
+/TestResults
+
+.vs/JenkinsWithDotNet/v14/.suo
