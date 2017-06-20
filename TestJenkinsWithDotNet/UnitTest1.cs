@@ -9,7 +9,7 @@ namespace TestJenkinsWithDotNet
         [Test]
         public void TestMethod1()
         {
-            Assert.AreEqual("Hello JenkinsCI", JenkinsWithDotNet.Program.CreateMessage());
+            Assert.AreEqual("Hello JenkinsC", JenkinsWithDotNet.Program.CreateMessage());
         }
     }
 }
